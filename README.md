@@ -18,19 +18,20 @@ Use this template to describe and document your engineering project.
 
 ## 👥 The Team 
 **Team Members**
-- [Member 1](name@emial.com)
-- [Member 2](name@emial.com)
+- [Odelia Harroch] (name@emial.com)
+- [Ariel Erusalimsky] (name@emial.com)
 
 **Supervisor**
-- [Supervisor](wwww.link_to_lab.com)
+- [Gal](wwww.link_to_lab.com)
 
 
 ## 📚 Project Description
-- A brief description of the project/challange, what it does, and how it works.
-- A list of the main features and functionalities of the project.
-- A list of the main components of the project.
-- A list of the main technologies used in the project.
+- In an era dominated by digital streaming platforms such as Spotify and YouTube, users worldwide face a common frustration - intrusive interruptions in their music or podcast streams caused by irrelevant advertisements.
 
+- Our solution involves leveraging deep audio embedding technology coupled with advanced anomaly detection/classification techniques to seamlessly remove disruptive advertisements from audio streams in near real-time. Our aim is to encapsulate this solution within a user-friendly platform.
+
+- Project components: Audio embeddings extraction, Ad detection
+- Methods: ML model for classification (SVM, Random Forest) and anomaly detection (KNN, Isolation Forest)
 
 ## ⚡ Getting Started
 
