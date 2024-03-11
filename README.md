@@ -9,11 +9,11 @@
 
 ## 👥 The Team 
 **Team Members**
-- Odelia Harroch (name@emial.com)
-- Ariel Erusalimsky (name@emial.com)
+- Odelia Harroch (odelia.harroch@mail.huji.ac.il)
+- Ariel Erusalimsky (ariel.erusalimsky@mail.huji.ac.il)
 
 **Supervisor**
-- [Gal](wwww.link_to_lab.com)
+- Gal (gal.katzhendler@mail.huji.ac.il)
 
 
 ## 📚 Project Description
