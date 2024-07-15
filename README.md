@@ -13,7 +13,7 @@
 - Ariel Erusalimsky (ariel.erusalimsky@mail.huji.ac.il)
 
 **Supervisor**
-- Gal (gal.katzhendler@mail.huji.ac.il)
+- Gal Katzhendler (gal.katzhendler@mail.huji.ac.il)
 
 
 ## 📚 Project Description
