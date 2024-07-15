@@ -8,13 +8,9 @@
 - [Project Description](#project-description)
   - [Problem Description](#problem-description)
   - [Solution](#solution)
-- [Acknowledgments](#acknowledgments)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installing](#installing)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [Built With](#built-with)
 - [Acknowledgments](#acknowledgments)
 
 ## 👥 The Team 
