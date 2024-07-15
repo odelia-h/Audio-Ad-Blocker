@@ -6,6 +6,7 @@
 ## Table of Contents
 - [The Team](#the-team)
 - [Project Description](#project-description)
+- [Acknowledgments]
 
 ## 👥 The Team 
 **Team Members**
