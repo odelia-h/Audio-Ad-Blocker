@@ -1,6 +1,6 @@
 # 💡 AUDIO AD BLOCKER
 <!-- cool project cover image -->
-![Project Cover Image](/media/project-cover-img.jpg)
+![Project Cover Image](/media/audio_ad_blocker_image.jpg)
 
 <!-- table of content -->
 ## Table of Contents
