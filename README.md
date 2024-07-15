@@ -17,9 +17,16 @@
 
 
 ## 📚 Project Description
-- In an era dominated by digital streaming platforms such as Spotify and YouTube, users worldwide face a common frustration - intrusive interruptions in their music or podcast streams caused by irrelevant advertisements.
+🔍 Problem Description
+Introducing Audio Ad Blocker, our innovative project designed to transform the audio streaming experience. Today, platforms like Spotify and YouTube are primary sources of entertainment and information. However, users often face frustration due to frequent ad interruptions that disrupt their listening pleasure.
 
-- Our solution involves leveraging deep audio embedding technology coupled with advanced anomaly detection/classification techniques to seamlessly remove disruptive advertisements from audio streams in near real-time. Our aim is to encapsulate this solution within a user-friendly platform.
+💡 Solution
+Our solution integrates advanced techniques from signal processing, deep learning, machine learning, and software development. Leveraging these technologies, we aim to efficiently identify and remove advertisements from audio streams in near real-time.
 
-- Project components: Audio embeddings extraction, Ad detection
-- Methods: ML model for classification (SVM, Random Forest) and anomaly detection (KNN, Isolation Forest)
+Deep Learning Embeddings: We used a deep learning model to produce embeddings, which are vector features of the audio.
+Machine Learning Models: To accurately detect advertisements, we trained various machine learning models using suitable datasets we created. We then selected the model with the best performance and accuracy.
+To make this solution accessible, we have developed a user-friendly interface with two modes of operation:
+
+Real-Time Mode: Users can connect to the interface while listening to audio content, allowing it to filter out ads as they play.
+Offline Mode: Users can upload podcast files to the interface for ad removal, then download the processed file free of ads.
+This project aims to set a new standard for audio consumption worldwide, ensuring an enhanced experience for all users.
