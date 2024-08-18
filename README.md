@@ -40,15 +40,15 @@ To make this solution accessible, we have developed a user-friendly interface wi
 
 ### Prerequisites
 Requirements for the software and the necessary libraries to install:
--[Python 3.7.11:] Ensure you have Python 3.7 or later installed.
--[TensorFlow 2.x:] Required for using the VGGish model.
--[PyQt5:] For building the GUI application.
--[pydub:] To handle audio processing.
--[pyaudio:] For real-time audio capture and processing.
--[joblib:] For loading the pre-trained SVM model.
--[nircmd:] A utility for muting and unmuting system volume that matches your computer OS.
--[Git:] For version control and pushing changes to GitHub.
--[VGGish model file:] Download the vggish_model.ckpt file from the official repository.
+-**Python 3.7.11:** Ensure you have Python 3.7 or later installed.  
+-**TensorFlow 2.x:** Required for using the VGGish model.  
+-**PyQt5:** For building the GUI application.  
+-**pydub:** To handle audio processing.  
+-**pyaudio:** For real-time audio capture and processing.  
+-**joblib:** For loading the pre-trained SVM model.  
+-**nircmd:** A utility for muting and unmuting system volume that matches your computer OS.  
+-**Git:** For version control and pushing changes to GitHub.  
+-**VGGish model file:** Download the vggish_model.ckpt file from the official repository.  
 
 
 This project aims to set a new standard for audio consumption worldwide, ensuring an enhanced experience for all users.
