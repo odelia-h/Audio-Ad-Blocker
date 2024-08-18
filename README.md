@@ -39,7 +39,7 @@ To make this solution accessible, we have developed a user-friendly interface wi
 - **Offline Mode:** Users can upload podcast files to the interface for ad removal, then download the processed file free of ads.
 This project aims to set a new standard for audio consumption worldwide, ensuring an enhanced experience for all users.  
 
-### Prerequisites
+### 🧱 Prerequisites
 Requirements for the software and the necessary libraries to install:  
 -**Python 3.7.11:** Ensure you have Python 3.7 or later installed.  
 -**TensorFlow 2.x:** Required for using the VGGish model.  
@@ -51,6 +51,10 @@ Requirements for the software and the necessary libraries to install:
 -**Git:** For version control and pushing changes to GitHub.  
 -**VGGish model file:** Download the vggish_model.ckpt file from the official repository.  
 
+### 🏗️ Installing  
+You will need to download all the files in the directory "off&online audio processing" in a python environment.  
+Run either the python file in the ONline directory or in the OFFline directory according to the mode you wish to use.  
+Don't forget to change the path to the one of your current computer directory in the running code.  
 
 ## 🙏 Acknowledgments
 We deeply thank our mentor, Gal Katzhendler, for his exceptional guidance, unwavering support, and insightful feedback, which were crucial to the success of this project. Special thanks to Prof. Daphna Weinshall, Yuri Klebanov, and Nir Sweed for their valuable advice and insights throughout the last year.
