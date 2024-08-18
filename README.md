@@ -39,7 +39,7 @@ To make this solution accessible, we have developed a user-friendly interface wi
 - **Offline Mode:** Users can upload podcast files to the interface for ad removal, then download the processed file free of ads.
 
 ### Prerequisites
-Requirements for the software and the necessary libraries to install:
+Requirements for the software and the necessary libraries to install:  
 -**Python 3.7.11:** Ensure you have Python 3.7 or later installed.  
 -**TensorFlow 2.x:** Required for using the VGGish model.  
 -**PyQt5:** For building the GUI application.  
