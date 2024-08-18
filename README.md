@@ -37,6 +37,7 @@ To make this solution accessible, we have developed a user-friendly interface wi
 
 - **Real-Time Mode:** Users can connect to the interface while listening to audio content, allowing it to filter out ads as they play.
 - **Offline Mode:** Users can upload podcast files to the interface for ad removal, then download the processed file free of ads.
+This project aims to set a new standard for audio consumption worldwide, ensuring an enhanced experience for all users.  
 
 ### Prerequisites
 Requirements for the software and the necessary libraries to install:  
@@ -50,8 +51,6 @@ Requirements for the software and the necessary libraries to install:
 -**Git:** For version control and pushing changes to GitHub.  
 -**VGGish model file:** Download the vggish_model.ckpt file from the official repository.  
 
-
-This project aims to set a new standard for audio consumption worldwide, ensuring an enhanced experience for all users.
 
 ## 🙏 Acknowledgments
 We deeply thank our mentor, Gal Katzhendler, for his exceptional guidance, unwavering support, and insightful feedback, which were crucial to the success of this project. Special thanks to Prof. Daphna Weinshall, Yuri Klebanov, and Nir Sweed for their valuable advice and insights throughout the last year.
