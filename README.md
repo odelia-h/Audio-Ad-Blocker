@@ -11,7 +11,8 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   -  [Installing](#installing)
-- [Acknowledgments](#acknowledgments)
+- [Acknowledgments](#Acknowledgments)
+- [References](#References)
 
 ## 👥 The Team 
 ### Team Members
