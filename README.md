@@ -39,18 +39,18 @@ To make this solution accessible, we have developed a user-friendly interface wi
 - **Offline Mode:** Users can upload podcast files to the interface for ad removal, then download the processed file free of ads.
 This project aims to set a new standard for audio consumption worldwide, ensuring an enhanced experience for all users.
 
-## Getting Started
+## ⚡Getting Started
 ### 🧱 Prerequisites
-Requirements for the software and the necessary libraries to install:  
--**Python 3.7.11:** Ensure you have Python 3.7 or later installed.  
--**TensorFlow 2.x:** Required for using the VGGish model.  
--**PyQt5:** For building the GUI application.  
--**pydub:** To handle audio processing.  
--**pyaudio:** For real-time audio capture and processing.  
--**joblib:** For loading the pre-trained SVM model.  
--**nircmd:** A utility for muting and unmuting system volume that matches your computer OS.  
--**Git:** For version control and pushing changes to GitHub.  
--**VGGish model file:** Download the vggish_model.ckpt file from the official repository.  
+Ensure you have the following software and libraries installed to run the Audio Ad Blocker:
+- **Python 3.7.11:** Python is the programming language used to develop this project. Ensure you have at version 3.7.11 installed.
+- **TensorFlow 2.x:** TensorFlow is a deep learning framework essential for running the VGGish model, which we use for audio feature extraction.
+-**PyQt5:** PyQt5 is a set of Python bindings for the Qt application framework, used here to build the graphical user interface (GUI).
+- **pydub:** A Python library used for simple and easy manipulation of audio files. It handles audio file conversion, slicing, and processing tasks.  
+- **pyaudio:** PyAudio allows the project to capture and process real-time audio streams, enabling the real-time ad-blocking functionality.  
+- **joblib:** A library for efficient serialization and deserialization of Python objects, crucial for loading the pre-trained SVM model used in this project.
+- **nircmd:** A command-line utility that lets you control system volume, necessary for muting and unmuting audio during real-time ad filtering. Make sure to download the version that matches your OS. 
+- **Git:** For version control and pushing changes to GitHub.  
+- **VGGish model file:** The VGGish model is pre-trained for extracting audio embeddings. Download the vggish_model.ckpt file from the official Google repository.
 
 ### 🏗️ Installing  
 You will need to download all the files in the directory "off&online audio processing" in a python environment.  
