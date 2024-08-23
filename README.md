@@ -37,8 +37,9 @@ To make this solution accessible, we have developed a user-friendly interface wi
 
 - **Real-Time Mode:** Users can connect to the interface while listening to audio content, allowing it to filter out ads as they play.
 - **Offline Mode:** Users can upload podcast files to the interface for ad removal, then download the processed file free of ads.
-This project aims to set a new standard for audio consumption worldwide, ensuring an enhanced experience for all users.  
+This project aims to set a new standard for audio consumption worldwide, ensuring an enhanced experience for all users.
 
+## Getting Started
 ### 🧱 Prerequisites
 Requirements for the software and the necessary libraries to install:  
 -**Python 3.7.11:** Ensure you have Python 3.7 or later installed.  
