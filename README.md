@@ -44,17 +44,26 @@ This project aims to set a new standard for audio consumption worldwide, ensurin
 ### 🧱 Prerequisites
 Ensure you have the following software and libraries installed to run the Audio Ad Blocker:
 - **Python 3.7.11:** Python is the programming language used to develop this project. Ensure you have at version 3.7.11 installed
+
+- **numpy**: A fundamental package for scientific computing with Python, used for handling arrays and complex mathematical operations (pip install numpy).
+
 - **TensorFlow 2.x:** TensorFlow is a deep learning framework essential for running the VGGish model, which we use for audio feature extraction
    (*pip install tensorflow*).
+ - **tf_slim**: A lightweight library for defining, training, and evaluating complex models in TensorFlow (*pip install tf_slim*).
 - **PyQt5:** PyQt5 is a set of Python bindings for the Qt application framework, used here to build the graphical user interface
    (*pip install pyqt5*).
+  
 - **pydub:** A Python library used for simple and easy manipulation of audio files. It handles audio file conversion, slicing, and processing tasks.
    (*pip install pydub*).  
 - **pyaudio:** PyAudio allows the project to capture and process real-time audio streams, enabling the real-time ad-blocking functionality
-   (*pip install pyaudio*).  
+   (*pip install pyaudio*).
+  - **soundfile**: A library for reading and writing sound files in different formats (e.g., WAV, FLAC).
+  - **resampy**: A Python library for audio and music processing, particularly for resampling audio signals (*pip install resampy*).
+  
 - **joblib:** A library for efficient serialization and deserialization of Python objects, crucial for loading the pre-trained SVM model used in this project
    (*pip install joblib*).
 - **nircmd:** A command-line utility that lets you control system volume, necessary for muting and unmuting audio during real-time ad filtering. Make sure to download the version that matches your OS (https://www.nirsoft.net/utils/nircmd.html).
+  
 - **VGGish model file:** The VGGish model is pre-trained for extracting audio embeddings. Download the vggish_model.ckpt file from the official Google repository (https://github.com/tensorflow/models/blob/master/research/audioset/vggish).
 
 ### 🏗️ Installing 
