@@ -56,7 +56,21 @@ Ensure you have the following software and libraries installed to run the Audio 
 - **nircmd:** A command-line utility that lets you control system volume, necessary for muting and unmuting audio during real-time ad filtering. Make sure to download the version that matches your OS. 
 - **VGGish model file:** The VGGish model is pre-trained for extracting audio embeddings. Download the vggish_model.ckpt file from the official Google repository.
 
-### 🏗️ Installing  
+### 🏗️ Installing 
+To get started, follow these steps:
+
+1. **Clone the Repository**:
+Download all the files in the "off&online audio processing" directory from the project repository.
+
+2.**Set Up the Python Environment**:
+Ensure you have created and activated a Python environment. Install the required libraries mentioned in the Prerequisites section using the provided requirements.txt file or manually via the PyCharm terminal.
+
+3. **Choose Your Mod**:
+Depending on whether you want to process audio in real-time or offline, navigate to either the "ONline" or "OFFline" directory.
+
+4. **Run the Interface**:
+Execute the appropriate Python script within your selected directory. Make sure to update the file paths in the code to match your local system’s directory structure.
+
 You will need to download all the files in the directory "off&online audio processing" in a python environment.  
 Run either the python file in the ONline directory or in the OFFline directory according to the mode you wish to use.  
 Don't forget to change the path to the one of your current computer directory in the running code.  
