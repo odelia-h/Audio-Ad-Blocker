@@ -9,8 +9,8 @@
   - [Problem Description](#problem-description)
   - [Solution](#solution)
 - [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installing](#installing)
+  - [Prerequisites](#prerequisites)
+  -  [Installing](#installing)
 - [Acknowledgments](#acknowledgments)
 
 ## 👥 The Team 
