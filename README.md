@@ -55,7 +55,7 @@ Ensure you have the following software and libraries installed to run the Audio 
 - **joblib:** A library for efficient serialization and deserialization of Python objects, crucial for loading the pre-trained SVM model used in this project
    (*pip install joblib*).
 - **nircmd:** A command-line utility that lets you control system volume, necessary for muting and unmuting audio during real-time ad filtering. Make sure to download the version that matches your OS. 
-- **VGGish model file:** The VGGish model is pre-trained for extracting audio embeddings. Download the vggish_model.ckpt file from the official Google repository.
+- **VGGish model file:** The VGGish model is pre-trained for extracting audio embeddings. Download the vggish_model.ckpt file from the official Google repository (https://github.com/tensorflow/models/blob/master/research/audioset/vggish)
 
 ### 🏗️ Installing 
 To get started, follow these steps:
@@ -87,6 +87,8 @@ IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), pages 3852-
 [2] Look, Listen and Learn
 Relja Arandjelović and Andrew Zisserman
 IEEE International Conference on Computer Vision (ICCV), Venice, Italy, Oct. 2017.
+
+[3] https://github.com/tensorflow/models/blob/master/research/audioset/vggish
 
 
 
