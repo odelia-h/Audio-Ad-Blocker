@@ -57,9 +57,8 @@ Ensure you have the following software and libraries installed to run the Audio 
    (*pip install pydub*).  
 - **pyaudio:** PyAudio allows the project to capture and process real-time audio streams, enabling the real-time ad-blocking functionality
    (*pip install pyaudio*).
-  - **soundfile**: A library for reading and writing sound files in different formats (e.g., WAV, FLAC).
-  - **resampy**: A Python library for audio and music processing, particularly for resampling audio signals (*pip install resampy*).
-  
+- **soundfile**: A library for reading and writing sound files in different formats (e.g., WAV, FLAC).
+- **resampy**: A Python library for audio and music processing, particularly for resampling audio signals (*pip install resampy*).  
 - **joblib:** A library for efficient serialization and deserialization of Python objects, crucial for loading the pre-trained SVM model used in this project
    (*pip install joblib*).
 - **nircmd:** A command-line utility that lets you control system volume, necessary for muting and unmuting audio during real-time ad filtering. Make sure to download the version that matches your OS (https://www.nirsoft.net/utils/nircmd.html).
