@@ -10,7 +10,8 @@
   - [Solution](#solution)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  -  [Installing](#installing)
+  - [Installing](#installing)
+  - [Activation](#Activation)
 - [Acknowledgments](#Acknowledgments)
 - [References](#References)
 
@@ -68,22 +69,19 @@ Ensure you have the following software and libraries installed to run the Audio 
 ### 🏗️ Installing 
 To get started, follow these steps:
 
-1. **Clone the Repository**:
-Download all the files in the "off&online audio processing" directory from the project repository.
+1. **Clone the Repository:**: Download all the files in the "off&online audio processing" directory from the project repository.
 
-2. **Set Up the Python Environment**:
-Ensure you have created and activated a Python environment. Install the required libraries mentioned in the Prerequisites section using the provided requirements.txt file or manually via the PyCharm terminal.
+2. **Set Up the Python Environment:** Ensure you have created and activated a Python environment. Install the required libraries mentioned in the Prerequisites section manually via the PyCharm terminal if necessary.
 
-3. **Choose Your Mod**:
-Depending on whether you want to process audio in real-time or offline, navigate to either the "ONline" or "OFFline" directory.
+3. **Update the VGGish Model Path**: In the Vggish_Embeddings_Model file, update the path to the vggish_model.ckpt file to match the location where you saved it on your local system.
 
-4. **Run the Interface**:
-Execute the appropriate Python script within your selected directory. Make sure to update the file paths in the code to match your local system’s directory structure.
+### 🚀 Activation
+Once the installation steps are complete, follow these instructions to activate the application:
 
-You will need to download all the files in the directory "off&online audio processing" in a python environment.  
-Run either the python file in the ONline directory or in the OFFline directory according to the mode you wish to use.  
-Don't forget to change the path to the one of your current computer directory in the running code.  
+1. **Choose Your Mode:** Depending on whether you want to process audio in real-time or offline, navigate to either the "ONline" or "OFFline" directory.
 
+2. **Run the Application:** Execute the appropriate Python script within your selected directory. Make sure to update the file paths in the code to match your local system’s directory structure.
+  
 ## 🙏 Acknowledgments
 We deeply thank our mentor, Gal Katzhendler, for his exceptional guidance, unwavering support, and insightful feedback, which were crucial to the success of this project. Special thanks to Prof. Daphna Weinshall, Yuri Klebanov, and Nir Sweed for their valuable advice and insights throughout the last year.
 
