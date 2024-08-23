@@ -96,5 +96,7 @@ IEEE International Conference on Computer Vision (ICCV), Venice, Italy, Oct. 201
 
 [3] https://github.com/tensorflow/models/blob/master/research/audioset/vggish
 
+[4] https://www.nirsoft.net/utils/nircmd.html
+
 
 
