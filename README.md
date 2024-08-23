@@ -62,7 +62,7 @@ To get started, follow these steps:
 1. **Clone the Repository**:
 Download all the files in the "off&online audio processing" directory from the project repository.
 
-2.**Set Up the Python Environment**:
+2. **Set Up the Python Environment**:
 Ensure you have created and activated a Python environment. Install the required libraries mentioned in the Prerequisites section using the provided requirements.txt file or manually via the PyCharm terminal.
 
 3. **Choose Your Mod**:
