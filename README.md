@@ -27,18 +27,25 @@
 ## 📚 Project Description
 ### 🔍 Problem Description
 
-Introducing Audio Ad Blocker, our innovative project designed to transform the audio streaming experience. Today, platforms like Spotify and YouTube are primary sources of entertainment and information. However, users often face frustration due to frequent ad interruptions that disrupt their listening pleasure.
+Audio Ad Blocker addresses the frustration many users face with frequent ad interruptions while streaming audio on platforms like Spotify, YouTube, and live radio. These disruptions diminish the listening experience, making it difficult to enjoy continuous content without interruptions.
 
 ### 💡 Solution
+Our project is designed to effectively filter and remove advertisements from podcasts, whether they come from radio streams or other platforms. By utilizing advanced techniques in signal processing, deep learning, and machine learning, our solution quickly identifies and removes ads in near real-time, providing a smoother and more enjoyable listening experience across various audio sources.
 
-Our solution integrates advanced techniques from signal processing, deep learning, machine learning, and software development. Leveraging these technologies, we aim to efficiently identify and remove advertisements from audio streams in near real-time.
+#### Key Technologies Used
+- **Deep Learning Embeddings:** We utilize deep learning models such as VGGish and OpenL3 to extract vector features from audio streams. These embeddings capture the essential characteristics of the audio, enabling the system to differentiate between content and advertisements.
+- **Machine Learning Models:** We tested and trained various machine learning models, including K-Nearest Neighbors (KNN), Support Vector Machines (SVM), and Random Forest, using carefully curated datasets to accurately detect advertisements. After extensive evaluation, we selected the model that demonstrated the highest performance and accuracy.
+- **User Interface:** A user-friendly interface built with PyQt5 allows users to easily interact with the system, offering both real-time and offline modes for seamless ad removal.
 
-- **Deep Learning Embeddings:** We used a deep learning model to produce embeddings, which are vector features of the audio.
-- **Machine Learning Models:** To accurately detect advertisements, we trained various machine learning models using suitable datasets we created. We then selected the model with the best performance and accuracy.
-To make this solution accessible, we have developed a user-friendly interface with two modes of operation:
+#### Modes of Operation
+- **Real-Time Mode:** Filters out ads as users listen to live radio streams and other audio content, providing uninterrupted enjoyment.
+- **Offline Mode:** Removes ads from pre-recorded podcasts, allowing users to download ad-free audio files.
 
-- **Real-Time Mode:** Users can connect to the interface while listening to audio content, allowing it to filter out ads as they play.
-- **Offline Mode:** Users can upload podcast files to the interface for ad removal, then download the processed file free of ads.
+#### Technologies Integrated:
+- Python, TensorFlow, tf_slim, PyQt5, pydub
+- VGGish Model, scikit-learn
+- Numpy, Resampy, Joblib
+- 
 This project aims to set a new standard for audio consumption worldwide, ensuring an enhanced experience for all users.
 
 ## ⚡Getting Started
@@ -87,7 +94,7 @@ Once the installation steps are complete, follow these instructions to activate 
 ## 🙏 Acknowledgments
 We deeply thank our mentor, Gal Katzhendler, for his exceptional guidance, unwavering support, and insightful feedback, which were crucial to the success of this project. Special thanks to Prof. Daphna Weinshall, Yuri Klebanov, and Nir Sweed for their valuable advice and insights throughout the last year.
 
-## 📘 References 
+## 📘 References
 [1] Look, Listen and Learn More: Design Choices for Deep Audio Embeddings
 Aurora Cramer, Ho-Hsiang Wu, Justin Salamon, and Juan Pablo Bello.
 IEEE Int. Conf. on Acoustics, Speech and Signal Processing (ICASSP), pages 3852-3856, Brighton, UK, May 2019.
