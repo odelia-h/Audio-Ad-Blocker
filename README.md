@@ -42,10 +42,11 @@ Our project is designed to effectively filter and remove advertisements from pod
 - **Offline Mode:** Removes ads from pre-recorded podcasts, allowing users to download ad-free audio files.
 
 #### Technologies Integrated:
-- Python, TensorFlow, tf_slim, PyQt5, pydub
-- VGGish Model, scikit-learn
-- Numpy, Resampy, Joblib
-- 
+- Python
+- VGGish Model
+- OpenL3 Model
+- scikit-learn models (SVM, KNN, Random Forest)
+  
 This project aims to set a new standard for audio consumption worldwide, ensuring an enhanced experience for all users.
 
 ## ⚡Getting Started
