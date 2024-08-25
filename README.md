@@ -52,7 +52,7 @@ This project aims to set a new standard for audio consumption worldwide, ensurin
 ## ⚡Getting Started
 ### 🧱 Prerequisites
 Ensure you have the following software and libraries installed to run the Audio Ad Blocker:
-- **Python 3.7.11:** Python is the programming language used to develop this project. Ensure you have at version 3.7.11 installed
+- **Python 3.7.11:** Python is the programming language used to develop this project. Ensure you have at version 3.7.11 installed.
 
 - **numpy**: A fundamental package for scientific computing with Python, used for handling arrays and complex mathematical operations (pip install numpy).
 
@@ -79,7 +79,7 @@ Ensure you have the following software and libraries installed to run the Audio 
 ### 🏗️ Installing 
 To get started, follow these steps:
 
-1. **Clone the Repository:**: Download all the files in the "off&online audio processing" directory from the project repository.
+1. **Clone the Repository:** Download all the files in the "off&online audio processing" directory from the project repository.
 
 2. **Set Up the Python Environment:** Ensure you have created and activated a Python environment. Install the required libraries mentioned in the Prerequisites section manually via the PyCharm terminal if necessary.
 
